@@ -1,0 +1,1 @@
+Perguntaria para a pessoa se a mesma tem conhecimento se podemos terminar a avaliação em outro momento e caso ela não saiba iria perguntar a outro cadete mais experiênte sobre a possibilidade. Existindo a possibilidade, terminaria o restante posteiormente, caso não, finalizaria a avaliação no ultimo exercício avaliado e explicaria para a pessoa a situação.
